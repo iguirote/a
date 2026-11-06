@@ -1,0 +1,17 @@
+Resolução – Simplex
+a) Não é ótima, pois existem valores negativos na linha Z (-50 e -150).
+
+b) Valor da função objetivo:
+
+Z = 25.000
+
+
+c) Variáveis de decisão:
+- x1 = 0
+- x2 = 50
+- x3 = 0
+d) Sobras dos recursos:
+- f1 = 40
+- f2 = 30
+- f3 = 0
+Regra: Variáveis na base recebem o valor de b; variáveis fora da base recebem zero.
